@@ -1,5 +1,9 @@
 const fruits = ["banana", "apple", "orange"];
 
+fruits.map((value) => {
+  return value;
+});
+
 console.log(fruits);
 
 SayHello();
