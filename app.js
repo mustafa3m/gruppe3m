@@ -4,7 +4,7 @@ console.log(fruits);
 
 SayHello();
 
-SayHello = () => {
+const SayHello = () => {
   console.log(` hei `);
 };
 
