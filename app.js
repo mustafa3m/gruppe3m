@@ -1,3 +1,5 @@
+/* 1 eksample : array.reduce() */
+
 const fruits = ["banana", "apple", "orange"];
 
 fruits.map((value) => {
